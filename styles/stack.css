@@ -1,0 +1,21 @@
+.navbar-default {
+  font-size: 12px;
+  background-color: #232323;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFFFFF;
+}
+
+.navbar-nav > li > a, .navbar-brand {
+  padding-top:10px; 
+  padding-bottom:0;
+  height: 28px;
+}
+.navbar {
+  min-height:28px;
+}
+
+.input-sm {
+  height: 22px;
+}
