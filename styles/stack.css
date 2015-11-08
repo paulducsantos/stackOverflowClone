@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+
+
+/* Right side content */
+.panel > .right-first-panel {
+  background-color: #FFF8DC;
+  background-image: none;
+  background-repeat: no-repeat;
+}
+
+.right-first-panel {
+  background-color: #FFF8DC;
+  background-image: none;
+  background-repeat: no-repeat;
+}
+
+.job-panel {
+  border: 5px solid;
+  border-radius: 0px;
+  border-color: #337ab7;
+}
+
+.a-unstyled { 
+  color: #333; 
+}
+.a-unstyled:link { 
+  color: #0000EE; 
+}
+.a-unstyled:visited { 
+  color: #0000EE; 
+}
+.a-unstyled:hover { 
+  color: #000; 
+}
+.a-unstyled:active { 
+  color: #333; 
+}
+
+.btn-style{
+  background-color: #E4EDF4;
+  border-radius: 0px;
+  border: none;
+}
+
+
+
+
+
+/* hot questions panel */
+.hot-q {
+  list-style: none;
+  padding-left: 5px;
+}
