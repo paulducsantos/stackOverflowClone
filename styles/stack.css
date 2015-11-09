@@ -1,3 +1,4 @@
+/*Navbar*/
 .navbar-default {
   font-size: 12px;
   background-color: #232323;
@@ -18,16 +19,13 @@
 
 .input-sm {
   height: 22px;
-=======
 
 
+/*Nav button styling*/
 
-
-
-
-
-
-
+. {
+	color: #F69C55;
+}
 
 /* Right side content */
 .panel > .right-first-panel {
@@ -73,9 +71,9 @@
 
 
 
-
 /* hot questions panel */
 .hot-q {
   list-style: none;
   padding-left: 5px;
 }
+
