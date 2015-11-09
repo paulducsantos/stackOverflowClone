@@ -19,7 +19,11 @@
 
 .input-sm {
   height: 22px;
+<<<<<<< HEAD
+}
+=======
 
+>>>>>>> ab00aaa0da81d78d82759df99af8bf8423d87524
 
 
 
@@ -31,16 +35,12 @@
 
 
 /* Right side content */
-.panel > .right-first-panel {
+.panel-warning > .panel-heading {
   background-color: #FFF8DC;
-  background-image: none;
-  background-repeat: no-repeat;
 }
 
-.right-first-panel {
-  background-color: #FFF8DC;
-  background-image: none;
-  background-repeat: no-repeat;
+.panel-warning > .panel-body {
+  background: #FFF8DC;
 }
 
 .job-panel {
