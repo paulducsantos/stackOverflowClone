@@ -18,7 +18,7 @@
 
 .input-sm {
   height: 22px;
-=======
+}
 
 
 
@@ -30,16 +30,12 @@
 
 
 /* Right side content */
-.panel > .right-first-panel {
+.panel-warning > .panel-heading {
   background-color: #FFF8DC;
-  background-image: none;
-  background-repeat: no-repeat;
 }
 
-.right-first-panel {
-  background-color: #FFF8DC;
-  background-image: none;
-  background-repeat: no-repeat;
+.panel-warning > .panel-body {
+  background: #FFF8DC;
 }
 
 .job-panel {
