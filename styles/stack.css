@@ -1,13 +1,12 @@
 
+/*Navbar*/
 .navbar-default {
   font-size: 12px;
   background-color: #232323;
 }
-
 .navbar-default .navbar-nav>li>a {
     color: #FFFFFF;
 }
-
 .navbar-nav > li > a, .navbar-brand {
   padding-top:10px; 
   padding-bottom:0;
@@ -16,39 +15,28 @@
 .navbar {
   min-height:28px;
 }
-
 .input-sm {
   height: 22px;
-<<<<<<< HEAD
+
+
+/*Nav button styling*/
+. {
+	color: #F69C55;
 }
-=======
-
->>>>>>> ab00aaa0da81d78d82759df99af8bf8423d87524
-
-
-
-
-
-
-
-
 
 
 /* Right side content */
 .panel-warning > .panel-heading {
   background-color: #FFF8DC;
 }
-
 .panel-warning > .panel-body {
   background: #FFF8DC;
 }
-
 .job-panel {
   border: 5px solid;
   border-radius: 0px;
   border-color: #337ab7;
 }
-
 .a-unstyled { 
   color: #333; 
 }
@@ -64,7 +52,6 @@
 .a-unstyled:active { 
   color: #333; 
 }
-
 .btn-style{
   background-color: #E4EDF4;
   border-radius: 0px;
@@ -73,16 +60,11 @@
 
 
 
-
-
 /* hot questions panel */
 .hot-q {
   list-style: none;
   padding-left: 5px;
-
-
-
-
+}
 
 
 /*footer*/
